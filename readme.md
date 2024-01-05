@@ -3,7 +3,7 @@
 ### Working With C# .Net
 
 - Using the dotnet cli and visual studio code for development can be easier for smaller apps.
-- Installed the new LTS (at this time) .Net 8.0
+- Installed the new LTS (at this time) .Net 8.0 [Download .Net 8.0](https://dotnet.microsoft.com/en-us/download)
 - There is a new program style [since .Net 6](https://learn.microsoft.com/en-us/dotnet/core/tutorials/top-level-templates#use-the-new-program-style) so there is a dotnet commande to generate templates using the old programming style. This is helpful to follow tutorials.
 
 ### To run this project:
@@ -13,7 +13,6 @@
 - run `dotnet run`
 
   <img width="888" alt="image" src="https://github.com/wbdvlpmnt/HelloWorld/assets/139825457/1581eb76-c8e3-468b-86ab-53f5949a3548">
-
 
 ### Useful Commands:
 
