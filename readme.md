@@ -12,6 +12,9 @@
 - run `dotnet build`
 - run `dotnet run`
 
+  <img width="888" alt="image" src="https://github.com/wbdvlpmnt/HelloWorld/assets/139825457/1581eb76-c8e3-468b-86ab-53f5949a3548">
+
+
 ### Useful Commands:
 
 1. dotnet --help | Provides help for the SDK
